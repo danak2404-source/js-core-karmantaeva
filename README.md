@@ -12,3 +12,7 @@
 ```bash
 npm install
 npm test
+
+## Результаты тестов
+
+![Результаты тестов](tests.png)
